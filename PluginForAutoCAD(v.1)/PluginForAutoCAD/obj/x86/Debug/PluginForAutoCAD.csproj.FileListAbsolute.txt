@@ -1,0 +1,7 @@
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\bin\x86\Debug\PluginForAutoCAD.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\bin\x86\Debug\PluginForAutoCAD.pdb
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\bin\x86\Debug\accoremgd.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\x86\Debug\PluginForAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\x86\Debug\PluginForAutoCAD.csproj.CopyComplete
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\x86\Debug\PluginForAutoCAD.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\x86\Debug\PluginForAutoCAD.pdb

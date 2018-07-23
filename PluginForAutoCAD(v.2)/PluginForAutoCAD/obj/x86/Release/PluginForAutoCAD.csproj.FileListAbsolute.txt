@@ -1,0 +1,8 @@
+C:\Users\dyn1\Desktop\PluginForAutoCAD(v.2)\PluginForAutoCAD\bin\x86\Release\PluginForAutoCAD.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD(v.2)\PluginForAutoCAD\bin\x86\Release\PluginForAutoCAD.pdb
+C:\Users\dyn1\Desktop\PluginForAutoCAD(v.2)\PluginForAutoCAD\bin\x86\Release\accoremgd.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD(v.2)\PluginForAutoCAD\obj\x86\Release\PluginForAutoCAD.csproj.ResolveComReference.cache
+C:\Users\dyn1\Desktop\PluginForAutoCAD(v.2)\PluginForAutoCAD\obj\x86\Release\PluginForAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\dyn1\Desktop\PluginForAutoCAD(v.2)\PluginForAutoCAD\obj\x86\Release\PluginForAutoCAD.csproj.CopyComplete
+C:\Users\dyn1\Desktop\PluginForAutoCAD(v.2)\PluginForAutoCAD\obj\x86\Release\PluginForAutoCAD.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD(v.2)\PluginForAutoCAD\obj\x86\Release\PluginForAutoCAD.pdb

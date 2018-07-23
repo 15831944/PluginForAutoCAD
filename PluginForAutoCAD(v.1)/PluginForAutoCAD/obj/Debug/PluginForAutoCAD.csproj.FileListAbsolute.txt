@@ -1,0 +1,15 @@
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\bin\Debug\PluginForAutoCAD.dll
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\bin\Debug\PluginForAutoCAD.pdb
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\bin\Debug\accoremgd.dll
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.dll
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.pdb
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.csprojResolveAssemblyReference.cache
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\bin\Debug\PluginForAutoCAD.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\bin\Debug\PluginForAutoCAD.pdb
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\bin\Debug\accoremgd.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.csprojAssemblyReference.cache
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.csproj.CopyComplete
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.dll
+C:\Users\dyn1\Desktop\PluginForAutoCAD\PluginForAutoCAD\obj\Debug\PluginForAutoCAD.pdb

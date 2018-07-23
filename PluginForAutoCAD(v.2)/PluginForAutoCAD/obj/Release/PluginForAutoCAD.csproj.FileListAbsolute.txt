@@ -1,0 +1,7 @@
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\bin\Release\PluginForAutoCAD.dll
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\bin\Release\PluginForAutoCAD.pdb
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\bin\Release\accoremgd.dll
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\obj\Release\PluginForAutoCAD.csprojResolveAssemblyReference.cache
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\obj\Release\PluginForAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\obj\Release\PluginForAutoCAD.dll
+C:\Users\Naydmit\Documents\Visual Studio 2017\Projects\PluginForAutoCAD\PluginForAutoCAD\obj\Release\PluginForAutoCAD.pdb
